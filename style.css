@@ -5,6 +5,7 @@
     font-weight: normal;
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif
+    
 }
 
 img{
@@ -18,6 +19,7 @@ img{
     margin: auto;
     text-align: center;
     background-color: #eeeeee;
+    overflow: hidden;
 }
 .top h2{
 
@@ -41,6 +43,7 @@ button{
     margin: auto;
     display: flex;
     justify-content: space-between;
+    overflow: hidden;
     
 }
 
@@ -49,6 +52,7 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .first{
