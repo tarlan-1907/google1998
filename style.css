@@ -84,6 +84,10 @@ button{
 .third .subscribe button{
     margin-right: 10px;
 }
+.third input{
+    width: max-content;
+    overflow: hidden;
+}
 
 h4{
     text-align: center;
