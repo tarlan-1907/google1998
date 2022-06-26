@@ -85,7 +85,7 @@ button{
     margin-right: 10px;
 }
 .third input{
-    width: max-content;
+    width: 100%;
     overflow: hidden;
 }
 
